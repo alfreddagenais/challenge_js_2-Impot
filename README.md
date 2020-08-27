@@ -1,2 +1,3 @@
-# challenge_js_2-Impot
-Created with CodeSandbox
+# Challenge JS - 2 Impot
+
+Challenge https://www.youtube.com/watch?v=cX-5J_cy8TM
